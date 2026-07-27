@@ -27,4 +27,4 @@ An interactive, server-based R Shiny application designed to track, analyze, and
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Aalam-data-science/gcffinalproject.git]
+   git clone [https://github.com/Aalam-data-science/gcffinalproject.git](https://github.com/Aalam-data-science/gcffinalproject.git)
